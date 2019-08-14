@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c11 -include /home/wang/Code/ldd/linux/include/linux/kconfig.h -g   CMakeFiles/rasp_gpio.dir/rasp_gpio.c.o  -o rasp_gpio 

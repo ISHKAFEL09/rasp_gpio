@@ -1,0 +1,22 @@
+/home/wang/Downloads/clion-2019.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wang/Code/ldd/rasp_gpio
+CMake Warning (dev) at CMakeLists.txt:12:
+  Syntax Warning in cmake code at column 32
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:13:
+  Syntax Warning in cmake code at column 41
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at CMakeLists.txt:14:
+  Syntax Warning in cmake code at column 43
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wang/Code/ldd/rasp_gpio/cmake-build-debug
